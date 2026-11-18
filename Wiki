@@ -1,1 +1,14 @@
+# DetailX Garage
 
+DetailX Garage je podjetje, ki se ukvarja s profesionalno nego, personalizacijo in diagnostiko avtomobilov.
+
+## Naše storitve
+- Car detailing in poliranje vozil
+- Car wrapping oziroma polepitev vozil
+- Avtodiagnostika in odkrivanje napak
+
+## Naša vizija
+Naš cilj je zagotavljati kakovostne avtomobilske storitve in postati prepoznavno podjetje na področju avtomobilske nege.
+
+## Ekipa
+Blaž, Justin in Tijan.
